@@ -45,7 +45,7 @@ public class App {
         }
     }
 
-    public static String mainScreenDisplay() {
+    private static String mainScreenDisplay() {
         Scanner s = new Scanner(System.in);
 
         System.out.println("                          Main Menu");
